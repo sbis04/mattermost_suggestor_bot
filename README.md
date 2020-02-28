@@ -8,5 +8,5 @@
 > make
 
 ## Usage
-Trigger the suggestion via the slash command `/suggestor channels`. Other triggers may be added later.
+Suggestions can be triggered using the slash command `/suggestor channels`.
 
