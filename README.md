@@ -1,7 +1,7 @@
 # Mattermost Suggestor Bot
 
 ## Installation
-> git clone https://github.com/mattermost/mattermost-plugin-suggestions.git
+> git clone https://github.com/sbis04/mattermost_suggestor_bot.git
 
 > cd mattermost_suggestor_bot
 
