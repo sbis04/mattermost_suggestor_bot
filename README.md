@@ -27,6 +27,7 @@ cd mattermost_suggestor_bot
 ```bash
 make
 ```
+Upload the generated file in `mattermost_suggestor_bot/dist` folder to the Mattermost Admin Console. 
 
 ## Usage
 Suggestions can be triggered using the slash command `/suggestor channels`.
