@@ -1,5 +1,9 @@
 # Mattermost Suggestor Bot
 
+This is the mattermost suggestor bot which recommends channels to users.
+
+**Collaborative filtering** of the channels is done using the NearestNeighbors algorithm. We calculate the scores of each user in a channel as the number of messages posted in the channel.
+
 ## Installation
 
 1. Clone the repo:
