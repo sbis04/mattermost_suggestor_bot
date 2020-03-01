@@ -1,3 +1,4 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 # Mattermost Suggestor Bot
 
 This is the mattermost suggestor bot which recommends channels to users.
