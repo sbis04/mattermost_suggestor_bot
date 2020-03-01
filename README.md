@@ -1,12 +1,21 @@
 # Mattermost Suggestor Bot
 
 ## Installation
-> git clone https://github.com/sbis04/mattermost_suggestor_bot.git
 
-> cd mattermost_suggestor_bot
+1. Clone the repo:
+```bash
+git clone https://github.com/sbis04/mattermost_suggestor_bot.git
+```
 
-> make
+2. Navigate to the cloned directory:
+```bash
+cd mattermost_suggestor_bot
+```
+
+3. Run the following command to run the bot:
+```bash
+make
+```
 
 ## Usage
 Suggestions can be triggered using the slash command `/suggestor channels`.
-
